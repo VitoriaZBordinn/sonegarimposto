@@ -21,11 +21,11 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+
     background-repeat: no-repeat;
-    background-size: contain;
     align-items: center;
     text-align: center;
+    background-position: right;
 }
 
 .container {
@@ -79,7 +79,7 @@ body {
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
-    color: var(--branco-principal);
+    color: var(--botao-azul-efeito);
     margin-bottom: 0.1em;
 }
 
@@ -88,7 +88,7 @@ body {
 }
 
 .secundario__botao {
-    display: inline-block;
+    display: inline block;
     margin-top: 1em;
 }
 
