@@ -21,11 +21,11 @@ body {
 }
 
 .principal {
-
+background-image: url(Captura\ de\ tela_2024-08-06_07-33-55.png);
     background-repeat: no-repeat;
+    background-size: cover;
     align-items: center;
     text-align: center;
-    background-position: right;
 }
 
 .container {
